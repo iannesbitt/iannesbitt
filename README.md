@@ -1,4 +1,4 @@
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 - ⛷️ Enjoys: nordic skiing, alpine skiing, biking, soccer, golf, tea, coffee, pesto, macaroni and cheese
 - 🔭 Currently working on a Master's project using georadar to investigate freshwater lake-bottom sediments
 - 📜 Previous employment:

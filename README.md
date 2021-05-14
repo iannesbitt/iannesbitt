@@ -6,6 +6,7 @@
     - 🌋 Raspberry Shake (2 yrs, tech support/software development/science communication)
     - 🇦🇶 Antarctic field expedition to Allen Hills Blue Ice Area (field season 2019-2020, geophysical survey lead)
 - 📰 Published work: [Google Scholar](https://scholar.google.com/citations?user=voGZIlIAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-5828-6070), [ResearchGate](https://www.researchgate.net/profile/Ian_Nesbitt3)
+- 📄 Resume: [download](https://github.com/iannesbitt/iannesbitt/raw/master/NesbittResume.pdf)
 - ⚡ Fun fact: there are only two ATMs in Antarctica
 
 

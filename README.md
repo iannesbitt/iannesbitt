@@ -4,7 +4,7 @@
 - 📜 Previous employment:
     - ⛴️ e4sciences LLC (3.5 yrs, marine/terrestrial geophysical survey engineer)
     - 🌋 Raspberry Shake (2 yrs, tech support/software development/science communication)
-    - 🇦🇶 Led geophysical investigation for an Antarctic field expedition to the Allen Hills Blue Ice Area (field season 2019-2020)
+    - 🇦🇶 Antarctic field expedition to Allen Hills Blue Ice Area (field season 2019-2020, sub ice geophysical survey lead)
 - 📰 Published work: [Google Scholar](https://scholar.google.com/citations?user=voGZIlIAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-5828-6070), [ResearchGate](https://www.researchgate.net/profile/Ian_Nesbitt3)
 - ⚡ Fun fact: there are only two ATMs in Antarctica
 

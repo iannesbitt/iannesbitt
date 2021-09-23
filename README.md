@@ -2,9 +2,9 @@
 - ⛷️ Enjoys: nordic skiing, alpine skiing, biking, soccer, golf, tea, coffee, pesto, macaroni and cheese
 - 🔭 Currently working on a Master's project investigating sediment delivery to freshwater lakes in Maine since deglaciation
 - 📜 Previous employment:
-    - ⛴️ e4sciences LLC (3.5 yrs, marine/terrestrial geophysical survey engineer)
-    - 🌋 Raspberry Shake (2 yrs, tech support/software development/science communication)
-    - 🇦🇶 Antarctic field expedition to Allan Hills Blue Ice Area (field season 2019-2020, geophysical survey lead)
+    - 🇦🇶 Antarctic field expedition I-165-M to Allan Hills Blue Ice Area (field season 2019-2020, geophysical survey lead)
+    - 🌋 [Raspberry Shake](https://raspberryshake.org/) (2 yrs, tech support/software development/science communication)
+    - ⛴️ [e4sciences LLC](http://www.e4sciences.com/) (3.5 yrs, marine/terrestrial geophysical survey engineer)
 - 📰 Published work: [Google Scholar](https://scholar.google.com/citations?user=voGZIlIAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-5828-6070), [ResearchGate](https://www.researchgate.net/profile/Ian_Nesbitt3)
 - 📄 Resume: [download](https://github.com/iannesbitt/iannesbitt/raw/master/NesbittResume.pdf)
 - 📄📄 CV: [download](https://github.com/iannesbitt/cv/raw/main/_output/cv.pdf)

@@ -1,7 +1,8 @@
 - 😄 Pronouns: he/him
 - 🧑‍💻 Website: [iannesbitt.org](https://www.iannesbitt.org)
 - ⛷️ Enjoys: nordic skiing, alpine skiing, biking, futbol, football, golf, tea, coffee, pesto, macaroni and cheese
-- 🔭 Currently working on a Master's project investigating sediment delivery to freshwater lakes in Maine since deglaciation
+- 💼 Current employment: Research Software Engineer, National Center for Ecological Analysis and Synthesis, UCSB
+- 🔭 Working on a Master's project investigating sediment delivery to freshwater lakes in Maine since deglaciation
 - 📜 Previous employment:
     - 🇦🇶 Antarctic field expedition I-165-M to Allan Hills Blue Ice Area (field season 2019-2020, geophysical survey lead)
     - 🌋 [Raspberry Shake](https://raspberryshake.org/) (2 yrs, tech support/software development/science communication)

@@ -2,10 +2,10 @@
 - 🧑‍💻 Website: [iannesbitt.org](https://www.iannesbitt.org)
 - 🪪 ORCiD: [0000-0001-5828-6070](https://orcid.org/0000-0001-5828-6070)
 - ⛷️ Enjoys: nordic skiing, biking, track workouts, railroads, golf, coffee, pasta, cheese, single-malt Scotch
-- 💼 Employment: Research Software Engineer, National Center for Ecological Analysis and Synthesis, UCSB
-    - Lightweight metadata compatibility and repository onboarding
-    - Repository operations, including Unix upkeep, software maintainance and development, and data curation
-    - 3-D data visualization
+- 👷 Employment: Research Software Engineer, National Center for Ecological Analysis and Synthesis, UCSB
+    - 🗂️ Lightweight metadata compatibility and repository onboarding
+    - 📋 Repository operations, including Unix upkeep, software maintainance and development, and data curation
+    - 🌏 3-D data visualization
 - 🔭 Working on a Master's project investigating sediment delivery to freshwater lakes in Maine since deglaciation
 - 📜 Previous employment:
     - 🇦🇶 Antarctic field expedition I-165-M to Allan Hills Blue Ice Area (field season 2019-2020, geophysical survey lead)
